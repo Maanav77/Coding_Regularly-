@@ -19,6 +19,6 @@ int main ()
     for (int i = 0; i < x; i++)
     {
         cout<<i+1<<". ";
-        cout<<students[i]<<"\n";
+        cout<<students[i]<<"  \n";
     }
 }
