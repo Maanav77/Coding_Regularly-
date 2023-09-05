@@ -24,3 +24,4 @@ public class Day059 {
         return IntStream.rangeClosed(1, 100).boxed().collect(Collectors.toList());
     }
 }
+//day 59 completed
