@@ -39,8 +39,10 @@ public class Day088 {
         }
     }
 
+
     @Retention(RetentionPolicy.RUNTIME)
     @Target(ElementType.FIELD)
     @interface MyAnnotation {
     }
 }
+//day 85
